@@ -6196,7 +6196,7 @@ h6 {
 }
 .social-buttons iframe {
 	transition: opacity 275ms ease-out;
-	opacity: 0;
+	opacity: 1;
 	height: 20px;
 	width: 150px;
 }
@@ -6204,12 +6204,12 @@ h6 {
 	width: 51px;
 }
 .social-buttons.social-buttons-corner {
-	opacity: 0;
+	opacity: 1;
 	transition: opacity 1000ms ease-out;
 }
 .social-buttons.social-buttons-corner.visible {
 	opacity: 1;
-	z-index: 3;
+	z-index: 5;
 }
 .social-buttons.social-buttons-intro-screen {
 	position: relative;
@@ -6224,7 +6224,7 @@ h6 {
 
 .twitter-follow-button {
 	transition: opacity 275ms ease-in-out;
-	opacity: 0;
+	opacity: 1;
 }
 .twitter-follow-button.twitter-follow-button-rendered {
 	opacity: 1;
