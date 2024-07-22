@@ -6209,7 +6209,7 @@ h6 {
 }
 .social-buttons.social-buttons-corner.visible {
 	opacity: 1;
-	z-index: 5;
+	z-index: 3;
 }
 .social-buttons.social-buttons-intro-screen {
 	position: relative;
@@ -6224,7 +6224,7 @@ h6 {
 
 .twitter-follow-button {
 	transition: opacity 275ms ease-in-out;
-	opacity: 1;
+	opacity: 0;
 }
 .twitter-follow-button.twitter-follow-button-rendered {
 	opacity: 1;
