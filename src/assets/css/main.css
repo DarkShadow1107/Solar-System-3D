@@ -4956,7 +4956,7 @@ body {
 }
 
 .progress {
-	background-color: #cacaca;
+	background-color: #807b88;
 	height: 1rem;
 	margin-bottom: 1rem;
 	border-radius: 0;
@@ -5042,7 +5042,7 @@ body {
 	outline: 0;
 }
 .slider-handle:hover {
-	background-color: #1583cc;
+	background-color: #071ac6;
 }
 .slider-handle.is-dragging {
 	transition: all 0s linear;
@@ -5922,7 +5922,7 @@ h6 {
 	color: #cccccc;
 }
 .menu a:hover {
-	color: #ffbd00;
+	color: #c32727;
 }
 
 .moons {
@@ -5950,7 +5950,7 @@ h6 {
 	overflow-y: scroll;
 }
 .moons a:hover {
-	color: #3beaf7;
+	color: #bb379a;
 }
 
 .planet-name {
@@ -5986,7 +5986,7 @@ h6 {
 
 .accordion-item.is-active .accordion-title {
 	background-color: rgba(30, 30, 30, 0.75);
-	color: #3beaf7;
+	color: #844dfa;
 }
 
 .container-main {
