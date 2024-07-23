@@ -6204,7 +6204,7 @@ h6 {
 	width: 51px;
 }
 .social-buttons.social-buttons-corner {
-	opacity: 1;
+	opacity: 0;
 	transition: opacity 1000ms ease-out;
 }
 .social-buttons.social-buttons-corner.visible {
